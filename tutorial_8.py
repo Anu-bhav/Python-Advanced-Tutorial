@@ -221,7 +221,7 @@ start = time.perf_counter()
 with concurrent.futures.ThreadPoolExecutor() as executor:
     secs = [3, 2.5, 1.5, 1]
     # To return the results in the same order that they started, we use the map function
-    # but they all ran concurrently and did not slow down
+    # But they all ran concurrently and did not slow down
     results = executor.map(do_something, secs)
 
     for result in results:
