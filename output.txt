@@ -1,16 +1,16 @@
-total 46
-drwxr-xr-x 1 Anubhav 197121    0 Feb 18 10:48 .
+total 53
+drwxr-xr-x 1 Anubhav 197121    0 Feb 18 20:21 .
 drwxr-xr-x 1 Anubhav 197121    0 Feb 17 09:45 ..
-drwxr-xr-x 1 Anubhav 197121    0 Feb 18 00:16 .git
+drwxr-xr-x 1 Anubhav 197121    0 Feb 18 20:20 .git
 -rw-r--r-- 1 Anubhav 197121    7 Feb 17 21:04 .gitignore
 drwxr-xr-x 1 Anubhav 197121    0 Feb 17 10:45 .vscode
--rw-r--r-- 1 Anubhav 197121 1096 Feb 18 10:17 bash.exe.stackdump
--rw-r--r-- 1 Anubhav 197121    0 Feb 18 10:48 output.txt
--rw-r--r-- 1 Anubhav 197121  722 Feb 18 00:27 README.md
+-rw-r--r-- 1 Anubhav 197121    0 Feb 18 20:21 output.txt
+-rw-r--r-- 1 Anubhav 197121 1104 Feb 18 10:54 README.md
 -rw-r--r-- 1 Anubhav 197121 1205 Feb 17 21:12 tutorial_1.py
 -rw-r--r-- 1 Anubhav 197121 2326 Feb 17 11:41 tutorial_2.py
 -rw-r--r-- 1 Anubhav 197121 3096 Feb 17 14:25 tutorial_3.py
 -rw-r--r-- 1 Anubhav 197121 3252 Feb 17 20:04 tutorial_4.py
 -rw-r--r-- 1 Anubhav 197121 2334 Feb 17 20:56 tutorial_5.py
 -rw-r--r-- 1 Anubhav 197121 1660 Feb 17 21:41 tutorial_6.py
--rw-r--r-- 1 Anubhav 197121 3445 Feb 18 10:48 tutorial_7.py
+-rw-r--r-- 1 Anubhav 197121 3466 Feb 18 20:21 tutorial_7.py
+-rw-r--r-- 1 Anubhav 197121 7011 Feb 18 14:28 tutorial_8.py

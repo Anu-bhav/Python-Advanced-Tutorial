@@ -45,7 +45,7 @@ with open(filename, "r") as f:
     print("Redirect stdout to file and reading the file")
     print(f.read())
 
-# What happens when the command does not execute successfully
+# What happens when the command does not execute successfully?
 print("When shell commands fail")
 p5 = subprocess.run("ls -la doesnotexist", capture_output=True, text=True)
 # by default, python does not give an error when a shell command fails
@@ -66,7 +66,7 @@ try:
         "ls -la doesnotexist", capture_output=True, text=True, check=True
     )
     print(p5.stderr)
-except Exception as err:
+except subprocess.CalledProcessError as err:
     print(err)
     print()
 
