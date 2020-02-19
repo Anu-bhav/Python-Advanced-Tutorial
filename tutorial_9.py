@@ -372,10 +372,10 @@ def example_9():
 # the main function will call all other functions so that they will be executed once
 def main():
     original_function()
-    # example_1()
-    # example_2()
-    # example_3()
-    # example_4()
+    example_1()
+    example_2()
+    example_3()
+    example_4()
     example_5()
     example_6()
     example_7()
